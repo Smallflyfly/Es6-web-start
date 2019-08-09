@@ -1,12 +1,13 @@
-// import "../src/1-basic-syntax/let-const"
-// import "../src/1-basic-syntax/destructuring"
-// import "./1-basic-syntax/spread"
-// import "./1-basic-syntax/rest"
-// import "./build-in-types/String"
-// import "./build-in-types/object"
-// import "./build-in-types/Array"
-// import "./OO/class-extends"
-// import "./module/import-example"
-// import "./data-structure/Set"
-// import "./data-structure/Map"
-import "./promise/Promise"
+// import "../src/1-basic-syntax/let-const";
+// import "../src/1-basic-syntax/destructuring";
+// import "./1-basic-syntax/spread";
+// import "./1-basic-syntax/rest";
+// import "./build-in-types/String";
+// import "./build-in-types/object";
+// import "./build-in-types/Array";
+// import "./OO/class-extends";
+// import "./module/import-example";
+// import "./data-structure/Set";
+// import "./data-structure/Map";
+// import "./promise/Promise";
+import "./symbol/Symbol";
