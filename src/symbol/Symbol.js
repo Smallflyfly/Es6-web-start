@@ -18,3 +18,22 @@ console.log(user[idSym]);
 
 let s5 = Symbol();
 console.log(`module${s5.toString()}`);
+
+function* testGenerator() {
+    yield "val1";
+    yield "val2";
+    yield "val3";
+}
+
+let iter = testGenerator();
+console.log(iter.next());
+console.log(iter.next());
+console.log(iter.next());
+console.log(iter.next());
+
+let user1 = {
+    name: "fang",
+    age: 20,
+    addr: "Hangzhou"
+};
+console.log(...user1);
